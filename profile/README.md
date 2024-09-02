@@ -17,9 +17,10 @@
 > - 공유된 사진에 좋아요, 댓글을 남겨 추억을 함께 떠올려보세요.
 
 ## 🔗 Links
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/></a> <!-- Figma -->
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Wiki-181717?style=for-the-badge&logo=Github&logoColor=white"/></a> <!-- Wiki -->
-<a href="" target="_blank"><img src="https://img.shields.io/badge/API 명세서-34A853?style=for-the-badge&logo=Google Sheets&logoColor=white"/></a> <!-- Google Sheet -->
+<a href="https://www.figma.com/design/9BrDrys4FBGbLddElob9fe/Momentwo-App?node-id=0-1&node-type=CANVAS" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/></a> <!-- Figma -->
+<a href="https://github.com/orgs/Momentwo/projects/2/views/1" target="_blank"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=Github&logoColor=white"/></a> <!-- Projects -->
+<a href="https://github.com/Momentwo/.github/wiki" target="_blank"><img src="https://img.shields.io/badge/Wiki-181717?style=for-the-badge&logo=Github&logoColor=white"/></a> <!-- Wiki -->
+<a href="https://docs.google.com/spreadsheets/d/1YRfMq25zHXb-t9I5BtCy1J-0f9CEuApI4UbKw0r2kqg/edit?gid=0#gid=0" target="_blank"><img src="https://img.shields.io/badge/API 명세서-34A853?style=for-the-badge&logo=Google Sheets&logoColor=white"/></a> <!-- Google Sheet -->
 
 ---
 
