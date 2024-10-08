@@ -145,11 +145,13 @@
 | **분류** | **Stack** |
 | --- | --- |
 | Language | Java |
-| App Architecture | Hexagonal Architecture (adapter, port, usecase, domain, advice) |
+| Architecture | Hexagonal Architecture (adapter, port, usecase, domain, advice) |
 | Security | SpringSecurity |
 | Token | JWT (Json Web Token) |
-| RDBS | mySQL, queryDsl, JPA |
-| Asynchronous | `@EnableAsync` , ThreadPoolTaskExecutor |
-| Others | Web, Valid, lombok |
+| RDBMS | mySQL, queryDsl, JPA |
+| Asynchronous | @EnableAsync , ThreadPoolTaskExecutor |
+| Search Engine | ElasticSearch |
+| AWS | EC2, RDS, S3 |
+| Others | Web, Valid, lombok, Docker |
 
 
