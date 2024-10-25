@@ -214,7 +214,7 @@
 | RDBMS | mySQL, queryDsl, JPA |
 | Asynchronous | @EnableAsync , ThreadPoolTaskExecutor |
 | Search Engine | ElasticSearch |
-| AWS | EC2, RDS, S3 |
+| AWS | EC2, RDS, S3, IAM, CloudFront |
 | Others | Web, Valid, lombok, Docker |
 
 
